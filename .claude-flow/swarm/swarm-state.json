@@ -1,0 +1,23 @@
+{
+  "swarms": {
+    "swarm-1776319022368-htkosh": {
+      "swarmId": "swarm-1776319022368-htkosh",
+      "topology": "hierarchical-mesh",
+      "maxAgents": 15,
+      "status": "running",
+      "agents": [],
+      "tasks": [],
+      "config": {
+        "topology": "hierarchical-mesh",
+        "maxAgents": 15,
+        "strategy": "specialized",
+        "communicationProtocol": "message-bus",
+        "autoScaling": true,
+        "consensusMechanism": "majority"
+      },
+      "createdAt": "2026-04-16T05:57:02.368Z",
+      "updatedAt": "2026-04-16T05:57:02.368Z"
+    }
+  },
+  "version": "3.0.0"
+}
